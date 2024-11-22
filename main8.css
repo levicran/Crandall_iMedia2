@@ -1,0 +1,38 @@
+
+body{background-image:url(gold.jpg)}
+#box{
+	background-color: #797D7F ;
+	width: 900px;
+	margin: auto;
+	padding-top:20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: black;
+	margin: 50px;}	
+.h1{
+	color: #B7950B;  
+	text-align: center;
+	font-family: Georgia;
+	font-size: 20pt;
+	text-decoration: underline;}
+.image{
+	float:right;
+	border: thin black solid;}
+.list{
+	list-style-image: url(letter.jpg);
+	margin-left: 15px;
+	color: #B7950B;  
+	font-family: Georgia;
+	font-size: 16pt;
+	text-decoration: bold;}
+span{
+	color:#B7950B;
+text-decoration: underline;}
+p{
+	color:black;
+	font-family: Georgia;
+	font-size: 12pt;
+}

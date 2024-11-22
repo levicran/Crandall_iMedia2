@@ -1,0 +1,52 @@
+
+body{
+	background-image:url(background2.jpg)
+	}
+#box{
+	background-color: #FAD7A0;
+	width: 900px;
+	margin: auto;
+	padding-top:20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #1F618D;
+	margin: 50px;}	
+
+.h1{
+	color: #2980B9;  
+	text-align: center;
+	font-family: Georgia;
+	font-size: 20pt;
+	text-decoration: underline;
+}
+.one{
+	color: #BA4A00;
+	text-align: left;
+	font-family: Georgia;
+	font-size: 14pt;
+}
+.two{
+	color: #5F6A6A;
+	text-align: left;
+	font-family: Georgia;
+	font-size: 14pt;
+}
+.three{
+	color: #FDFEFE;  
+	text-align: left;
+	font-family: Georgia;
+	font-size: 14pt;
+}
+.four{
+	color: #229954  ;
+	text-align: left;
+	font-family: Georgia;
+	font-size: 14pt;
+	}
+
+span{
+	color: #2980B9;
+	text-decoration: underline;
